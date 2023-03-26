@@ -10,7 +10,7 @@
 
 <body>
   <?php
-  echo 'I\'m studying';
+  echo 'I\'m studying now';
   ?>
   <!-- エスケープシーケンス -->
 </body>
